@@ -610,7 +610,7 @@ function createNewEvent() {
   var fullDate = util.formatDate(new Date(date));
   var time = "1pm - 3pm";
   var limit = 16;
-  var duration = 2;
+  var duration = 3;
   var eventStatus = 0
 
   //Upload Event information to Bmob

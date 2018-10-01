@@ -74,7 +74,7 @@ Page({
         fullDeadline: fullDeadline,
         time: "1pm - 3pm",
         limit: "16",
-        duration: 2,
+        duration: 3,
         eventStatus: 0,
         buttonText: "Create New Event",
         formText: "submitForm",
