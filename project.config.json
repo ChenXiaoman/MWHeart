@@ -11,6 +11,8 @@
 	"libVersion": "1.6.6",
 	"appid": "wx7fde259fe2216fc2",
 	"projectname": "MWHeart",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

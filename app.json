@@ -13,7 +13,9 @@
     "pages/admin/event/event",
     "pages/admin/userlist/userlist",
     "pages/admin/eventList/eventList",
-    "pages/admin/description/description"
+    "pages/admin/description/description",
+    "pages/eventAbout/eventAbout",
+    "pages/pastEvent/pastEvent"
   ],
   "window":{
     "backgroundTextStyle":"light",
