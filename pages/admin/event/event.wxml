@@ -78,7 +78,8 @@
       </view>
 
       <!-- upload event picture area -->
-      <view class="page-body" wx:if="{{isUpdateEvent}}">
+      <!-- Disable image display>
+      <!-- <view class="page-body" wx:if="{{isUpdateEvent}}">
         <view class="weui-btn-area" catchtap="upPic">
           <view class="add_pic" wx-if="{{picUrl == null}}">
             <view>Upload image (optinal)</view>
@@ -90,7 +91,7 @@
             </view>
           </view>
         </view>
-      </view>
+      </view> -->
 
       <view class="weui-btn-area">
         <button class="weui-btn" type="primary" formType="submit">{{buttonText}}</button>

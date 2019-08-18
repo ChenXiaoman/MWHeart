@@ -29,13 +29,14 @@
         <view class="weui-form-preview__value">{{eventItem.limit}} people</view>
       </view>
     </view>
-    <view class="weui-media-box">
+    <!--Disable image display>
+    <!-- <view class="weui-media-box">
       <view wx:if="{{eventItem.pic._url != null}}" class="image_box">
         <view class="picPre">
           <image src="{{eventItem.pic._url}}" mode="aspectFit"></image>
         </view>
       </view>
-    </view>
+    </view> -->
   </view>
 </view>
 
